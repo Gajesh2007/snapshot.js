@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Example query",
+    "strategy": {
+      "name": "quickswap",
+      "params": {
+        "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "symbol": "DAI"
+      }
+    },
+    "network": "137",
+    "addresses": [
+      "0x182f40CBed75CbC1a7cA53b4932c3C4479a54EF1"
+    ],
+    "snapshot": 1111000
+  }
+]
